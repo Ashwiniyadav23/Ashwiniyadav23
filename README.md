@@ -1,3 +1,4 @@
+<!-- HEADER -->
 <h1 align="center">✨ Hey there! I'm <span style="color:#4CAF50;">Ashwini Yadav</span> ✨</h1>
 <h3 align="center">🎯 Curious & Committed Fullstack Developer from India 🇮🇳</h3>
 
@@ -30,14 +31,28 @@
 
 ---
 
-## 📌 Fun Facts  
-- ☕ Coding + Chai = ❤️  
-- 🧠 I believe clean code is as important as creative ideas  
-- 🚀 I enjoy learning **new technologies** just as much as applying them  
-
----
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! 🙌</b> <br>
+  <i>Let’s connect and build something amazing together 🚀</i>
+</p>
+
+<p align="center">
+  <a href="mailto:ashwini.y@navgurukul.org">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ashwiniyadav">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashwiniyadav">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Made+with+❤️+by+Ashwini+Yadav;Thanks+for+scrolling+%F0%9F%91%8B" alt="Footer Typing" />
 </p>
