@@ -45,10 +45,10 @@
   <a href="mailto:ashwini.y@navgurukul.org">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://github.com/ashwiniyadav](https://github.com/Ashwiniyadav23)">
+  <a href="https://github.com/ashwiniyadav](https://github.com/Ashwiniyadav23">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/in/ashwiniyadav](https://www.linkedin.com/in/ashwini-yadav-/)">
+  <a href="https://www.linkedin.com/in/ashwiniyadav](https://www.linkedin.com/in/ashwini-yadav-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
