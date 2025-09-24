@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-💻 Currently building exciting fullstack projects that make a real impact, while also practicing DSA in C++.
+💻 Currently building exciting fullstack projects that make a real impact, while also practicing DSA in C++.  
 🌱 Leveling up my skills in **Node.js**, **Express**, **MongoDB**, and mastering **Data Structures & Algorithms**.  
 🤝 Always open to **collaborating** on meaningful **Frontend & Backend** solutions.  
 🧠 Passionate about **creative problem-solving** using DSA.  
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
@@ -45,10 +46,10 @@
   <a href="mailto:ashwini.y@navgurukul.org">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ashwiniyadav](https://github.com/Ashwiniyadav23">
+  <a href="https://github.com/Ashwiniyadav23">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ashwiniyadav](https://www.linkedin.com/in/ashwini-yadav-/">
+  <a href="https://www.linkedin.com/in/ashwini-yadav-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
