@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-💻 Currently building **exciting Fullstack projects** that make a real impact.  
+💻 Currently building exciting fullstack projects that make a real impact, while also practicing DSA in C++.
 🌱 Leveling up my skills in **Node.js**, **Express**, **MongoDB**, and mastering **Data Structures & Algorithms**.  
 🤝 Always open to **collaborating** on meaningful **Frontend & Backend** solutions.  
 🧠 Passionate about **creative problem-solving** using DSA.  
