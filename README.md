@@ -1,46 +1,104 @@
 <!-- HEADER -->
-<h1 align="center">✨ Hey there! I'm <span style="color:#4CAF50;">Ashwini Yadav</span> ✨</h1>
-<h3 align="center">🎯 Curious & Committed Fullstack Developer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20There!%20I'm%20Ashwini%20Yadav&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20DSA%20Practitioner&descAlignY=55&descSize=18"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ashwiniyadav23&color=4CAF50&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Ashwiniyadav23?label=Followers&style=flat-square&color=4CAF50)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+name: Ashwini Yadav
+role: Fullstack Developer 🇮🇳
+currently_building: "Impactful fullstack projects + practicing DSA in C++"
+leveling_up: [Node.js, Express, MongoDB, DevOps, AWS, DSA]
+open_to: "Collaborating on meaningful Frontend, Backend & Cloud solutions"
+passionate_about: "Creative problem-solving using DSA"
+loves_discussing: [React, JavaScript, HTML, CSS, Docker, AWS]
+contact: ashwini.y@navgurukul.org
+```
+
+---
+
+### 🛠 Tech Stack
+
+**🎨 Frontend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
+**⚙️ Backend**
 
-## 🚀 About Me  
-💻 Currently building exciting fullstack projects that make a real impact, while also practicing DSA in C++.  
-🌱 Leveling up my skills in **Node.js**, **Express**, **MongoDB**, and mastering **Data Structures & Algorithms**.  
-🤝 Always open to **collaborating** on meaningful **Frontend & Backend** solutions.  
-🧠 Passionate about **creative problem-solving** using DSA.  
-💬 Love discussing **React**, **JavaScript**, **HTML**, and **CSS**.  
-📬 **Let’s connect:** [ashwini.y@navgurukul.org](mailto:ashwini.y@navgurukul.org)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
----
+**☁️ DevOps & Cloud (AWS)**
 
-## 🛠 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightsail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**🧠 Languages & DSA**
+
+<p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+**🧰 Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer"/>
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <b>Thanks for visiting! 🙌</b> <br>
-  <i>Let’s connect and build something amazing together 🚀</i>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashwiniyadav23&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=4CAF50&icon_color=4CAF50" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwiniyadav23&theme=radical&hide_border=true&background=1a1b27&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwiniyadav23&layout=compact&theme=radical&hide_border=true&title_color=4CAF50&text_color=fff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwiniyadav23&theme=react-dark&hide_border=true&color=4CAF50&line=4CAF50&point=fff" width="90%" />
+</div>
+
+---
+
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:ashwini.y@navgurukul.org">
@@ -54,6 +112,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Made+with+❤️+by+Ashwini+Yadav;Thanks+for+scrolling+%F0%9F%91%8B" alt="Footer Typing" />
-</p>
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Ashwini+Yadav;Thanks+for+scrolling+%F0%9F%91%8B" alt="Footer Typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+
+</div>
